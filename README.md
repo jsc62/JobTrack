@@ -1,6 +1,6 @@
 # JobTrack
 
-Jeg begynte å søke på jobber og mistet oversikten ganske fort — hvilke steder jeg hadde søkt, hva statusen var, om jeg hadde fått svar. Så jeg lagde dette for å holde styr på det.
+Jeg begynte å søke på jobber og mistet oversikten ganske fort, hvilke steder jeg hadde søkt, hva statusen var, om jeg hadde fått svar. Så jeg lagde dette for å holde styr på det.
 
 ## Funksjoner
 - Legg til og administrer jobbsøknader
