@@ -1,23 +1,24 @@
-# JobTracker
+# JobTrack
 
-JobTracker is a simple web application designed to help you keep track of your job applications. You can add new applications, view details, and see the history of each application. The project uses Next.js and Tailwind CSS for a modern, responsive interface.
+Jeg begynte å søke på jobber og mistet oversikten ganske fort — hvilke steder jeg hadde søkt, hva statusen var, om jeg hadde fått svar. Så jeg lagde dette for å holde styr på det.
 
-## Features
-- Add and manage job applications
-- View application details and history
-- Organize notes and links for each job
-- Clean, user-friendly UI
+## Funksjoner
+- Legg til og administrer jobbsøknader
+- Se detaljer og historikk for hver søknad
+- Kanban-board for oversikt over status
+- Søk og filtrer søknader
 
 ## Tech Stack
 - Next.js
 - React
 - Tailwind CSS
+- shadcn/ui
 
-## Getting Started
-1. Clone the repository
-2. Run `npm install` to install dependencies
-3. Start the development server with `npm run dev`
+## Kom i gang
+1. Klon repoet
+2. Kjør npm install
+3. Start med npm run dev
 
-## Project Status
-This project was created to help organize job applications and is a work in progress. 
+## Status
+Jobber fortsatt med det.
 
